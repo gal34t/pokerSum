@@ -1,5 +1,5 @@
 >[!NOTE]
->future project
+>Future project
 # 🃏 pokerSum
 
 A mobile app built with **React Native** and **Firebase** to help live poker game players track **buy-ins**, **cash-outs**, and settle up at the end of the game.
