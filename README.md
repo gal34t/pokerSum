@@ -16,6 +16,3 @@ A mobile app built with **React**, **Capacitor runtime** and **Firebase** to hel
 - [⚛️](https://react.dev/)**React**
 - [🔌](https://capacitorjs.com/)**Capacitor**
 - [🔥](https://firebase.google.com/)**Firebase**
-  - Firestore (real-time database)
-  - Authentication (anonymous sign-in)
-  - Dynamic Links (for sharing rooms)
